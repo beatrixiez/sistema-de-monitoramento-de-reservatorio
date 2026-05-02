@@ -8,11 +8,11 @@
 
 #### Este simples programa exibe mensagens de alerta com cores diferentes, conforme o nível de água do reservatório.
 
-#### Nível 1 = <span style="color:red">Muito baixo (crítico)</span>
-#### Nível 2 = <span style="color:yellow">Baixo</span>
-#### Nível 3 = <span style="color:green">Médio</span>
-#### Nível 4 = <span style="color:cyan">Alto</span>
-#### Nível 5 = <span style="color:blue">Muito alto (alerta)</span>
+#### Nível 1 = Muito baixo (crítico) 🔴
+#### Nível 2 = Baixo 🟡
+#### Nível 3 = Médio 🟢
+#### Nível 4 = Alto 💠
+#### Nível 5 = Muito alto (alerta) 🔵
 
 ### 🛠 Ferramentas:
 
