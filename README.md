@@ -16,8 +16,7 @@
 
 ### 🛠 Ferramentas:
 
-#### A linguagem utilizada para desenvolvimento foi **Python**.
-#### As bibliotecas **colorama**, **random** e **time** também foram utilziadas.
+#### A linguagem utilizada para desenvolvimento foi **Python**. Assim como as bibliotecas **colorama**, **random** e **time**.
 
 ### 👩🏻‍💻 Execução:
 
