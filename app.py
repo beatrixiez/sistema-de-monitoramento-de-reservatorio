@@ -29,5 +29,5 @@ while True:
     nivel_reservatorio = randint(1, 5)
     monitoramento(nivel_reservatorio)
     
-    # timer para a mensagem ser exibida a cada 5 segundos na tela
-    time.sleep(5)
+    # timer para a mensagem ser exibida a cada 2 segundos na tela
+    time.sleep(2)
